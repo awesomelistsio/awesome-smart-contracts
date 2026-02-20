@@ -62,6 +62,7 @@
 
 ## Security Best Practices
 
+- **[PolicyLayer](https://policylayer.com/)** - Non-custodial spending controls for AI agents interacting with smart contracts, enforcing transaction limits and recipient whitelists.
 - **[Smart Contract Security Best Practices](https://consensys.github.io/smart-contract-best-practices/)** - A comprehensive guide to writing secure smart contracts.
 - **[The SWC Registry](https://swcregistry.io/)** - A list of common smart contract vulnerabilities.
 - **[Trail of Bits Smart Contract Auditing](https://www.trailofbits.com/services/smart-contract-audits/)** - A service for auditing smart contracts for security.
