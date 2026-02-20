@@ -66,6 +66,7 @@
 - **[The SWC Registry](https://swcregistry.io/)** - A list of common smart contract vulnerabilities.
 - **[Trail of Bits Smart Contract Auditing](https://www.trailofbits.com/services/smart-contract-audits/)** - A service for auditing smart contracts for security.
 - **[OpenZeppelin Defender](https://openzeppelin.com/defender/)** - A tool for automating smart contract security operations.
+- **[PolicyLayer](https://github.com/PolicyLayer/PolicyLayer)** - Non-custodial spending controls for AI agents interacting with smart contracts. Enforce spending limits, recipient whitelists, and kill switches on any EVM wallet.
 
 ## Smart Contract Platforms
 
